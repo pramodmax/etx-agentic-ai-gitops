@@ -13,3 +13,7 @@ defaultModel:
 
 llamaStackPlayground:
   image: quay.io/rhoai-genaiops/llama-stack-playground:0.2.11-rhone
+
+safetyModel:
+  name: Llama-Guard-3-1B
+  provider_id: vllm-safety
